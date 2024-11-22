@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/starTask"
+        android:title="Star task"
+        android:icon="@drawable/star_icon"
+        />
+    <item
+        android:id="@+id/category"
+        android:title="Category"
+        android:icon="@drawable/category_icon"
+        />
+    <item
+        android:id="@+id/widget"
+        android:title="Widget"
+        android:icon="@drawable/widget_icon"
+        />
+    <item
+        android:id="@+id/language"
+        android:title="Language"
+        android:icon="@drawable/language_icon"
+        />
+    <item
+        android:id="@+id/rateUs"
+        android:title="Rate Us"
+        android:icon="@drawable/rate_us"
+        />
+    <item
+        android:id="@+id/share"
+        android:title="Share App"
+        android:icon="@drawable/share_icon"
+        />
+    <item
+        android:id="@+id/notificaionRemender"
+        android:title="Notification and Remender"
+        android:icon="@drawable/notification_icon"
+        />
+    <item
+        android:id="@+id/taskTone"
+        android:title="Task Completion Tone"
+        android:icon="@drawable/task_icon"
+        />
+    <item
+        android:id="@+id/dateTime"
+        android:title="Date and Time Format"
+        android:icon="@drawable/date_icon"
+        />
+    </group>
+</menu>
